@@ -13,7 +13,7 @@ return [
     |
     */
     'core' => [
-        'minPhpVersion' => '7.2.0',
+        'minPhpVersion' => '7.4.0',
     ],
     'final' => [
         'key' => true,
@@ -39,7 +39,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | This is the default Laravel folders permissions, if your application
-    | requires more permissions just add them to the array list bellow.
+    | requires more permissions just add them to the array list below.
     |
     */
     'permissions' => [
